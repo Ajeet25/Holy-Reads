@@ -1,0 +1,6 @@
+framework module Pods_Holy_Reads {
+  umbrella header "Pods-Holy Reads-umbrella.h"
+
+  export *
+  module * { export * }
+}

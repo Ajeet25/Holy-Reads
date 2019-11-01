@@ -1,0 +1,4527 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/AppDelegate.swift",
+      "line": 15,
+      "symbol": "AppDelegate",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/AppDelegate.swift",
+      "line": 17,
+      "symbol": "AppDelegate.window",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/AppDelegate.swift",
+      "line": 18,
+      "symbol": "AppDelegate.deafults",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/AppDelegate.swift",
+      "line": 19,
+      "symbol": "AppDelegate.navigationController",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/AppDelegate.swift",
+      "line": 20,
+      "symbol": "AppDelegate.initialViewController",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/AppDelegate.swift",
+      "line": 21,
+      "symbol": "AppDelegate.storyboard",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/AppDelegate.swift",
+      "line": 23,
+      "symbol": "AppDelegate.application(_:didFinishLaunchingWithOptions:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/AppDelegate.swift",
+      "line": 36,
+      "symbol": "AppDelegate.applicationWillResignActive(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/AppDelegate.swift",
+      "line": 41,
+      "symbol": "AppDelegate.applicationDidEnterBackground(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/AppDelegate.swift",
+      "line": 46,
+      "symbol": "AppDelegate.applicationWillEnterForeground(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/AppDelegate.swift",
+      "line": 50,
+      "symbol": "AppDelegate.applicationDidBecomeActive(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/AppDelegate.swift",
+      "line": 54,
+      "symbol": "AppDelegate.applicationWillTerminate(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/AppDelegate.swift",
+      "line": 58,
+      "symbol": "AppDelegate.showFirstPage()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/AppDelegate.swift",
+      "line": 65,
+      "symbol": "AppDelegate.showMain()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/AppDelegate.swift",
+      "line": 83,
+      "symbol": "AppDelegate.checkCameraPermission(completionHandler:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/AppDelegate.swift",
+      "line": 130,
+      "symbol": "AppDelegate.checkGalleryPermission(completionHandler:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/Config.swift",
+      "line": 12,
+      "symbol": "Config",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/Config.swift",
+      "line": 14,
+      "symbol": "Config.API_URL",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/Config.swift",
+      "line": 15,
+      "symbol": "Config.Web_URl",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/Config.swift",
+      "line": 17,
+      "symbol": "Config.AppAlertTitle",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/Config.swift",
+      "line": 18,
+      "symbol": "Config.AppUserDefaults",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/Config.swift",
+      "line": 20,
+      "symbol": "Config.debug_mode",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/Config.swift",
+      "line": 21,
+      "symbol": "Config.NO_IMAGE",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/Config.swift",
+      "line": 23,
+      "symbol": "Config.USER_NO_IMAGE",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/Config.swift",
+      "line": 31,
+      "symbol": "Config.AppNavBlueColor",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/Config.swift",
+      "line": 32,
+      "symbol": "Config.AppGreenColor",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/Config.swift",
+      "line": 33,
+      "symbol": "Config.AppYellowColor",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/Config.swift",
+      "line": 34,
+      "symbol": "Config.AppBrownColor",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/Config.swift",
+      "line": 35,
+      "symbol": "Config.AppButtonGreenColor",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/Config.swift",
+      "line": 36,
+      "symbol": "Config.AppLineColor",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/Config.swift",
+      "line": 37,
+      "symbol": "Config.AppGrayColor",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/Config.swift",
+      "line": 38,
+      "symbol": "Config.AppBlackColor",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/Config.swift",
+      "line": 39,
+      "symbol": "Config.AppRedColor",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/Config.swift",
+      "line": 40,
+      "symbol": "Config.AppAppleColor",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/Config.swift",
+      "line": 41,
+      "symbol": "Config.AppOrangeColor",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/Config.swift",
+      "line": 44,
+      "symbol": "Config.AppWhiteColor",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/Config.swift",
+      "line": 45,
+      "symbol": "Config.AppClearColor",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/Config.swift",
+      "line": 47,
+      "symbol": "Config.printData(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/Config.swift",
+      "line": 53,
+      "symbol": "Config.AppGlobalFont(_:isBold:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/Constant.swift",
+      "line": 12,
+      "symbol": "screenWidth",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/Constant.swift",
+      "line": 13,
+      "symbol": "screenHeight",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/Constant.swift",
+      "line": 14,
+      "symbol": "topSafeArea",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/Constant.swift",
+      "line": 15,
+      "symbol": "bottomSafeArea",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/DataManager.swift",
+      "line": 17,
+      "symbol": "NSDictionary.dataFromHttpParameters()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/DataManager.swift",
+      "line": 39,
+      "symbol": "DataManager",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/DataManager.swift",
+      "line": 41,
+      "symbol": "DataManager.isConnectedToNetwork()",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/DataManager.swift",
+      "line": 66,
+      "symbol": "DataManager.getVal(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/DataManager.swift",
+      "line": 94,
+      "symbol": "DataManager.getVal(_:typeObj:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/DataManager.swift",
+      "line": 121,
+      "symbol": "DataManager.saveinDefaults(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/DataManager.swift",
+      "line": 135,
+      "symbol": "DataManager.ClearUserDetails()",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/DataManager.swift",
+      "line": 146,
+      "symbol": "DataManager.getValForIndex(_:index:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/DataManager.swift",
+      "line": 167,
+      "symbol": "DataManager.JSONStringify(_:prettyPrinted:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/DataManager.swift",
+      "line": 179,
+      "symbol": "DataManager.getAPIResponseFileSingleImage(_:methodName:dataArray:success:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/DataManager.swift",
+      "line": 228,
+      "symbol": "DataManager.createBodyWithParametersSingleImage(parameters:filePathKey:imageDataKey:boundary:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/DataManager.swift",
+      "line": 254,
+      "symbol": "DataManager.getAPIResponse(_:methodName:methodType:success:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/DataManager.swift",
+      "line": 286,
+      "symbol": "DataManager.getAPIResponse(_:methodName:success:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/DataManager.swift",
+      "line": 317,
+      "symbol": "DataManager.createBodyWithParameters(parameters:filePathKey:imageDataKey:boundary:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/DataManager.swift",
+      "line": 343,
+      "symbol": "DataManager.generateBoundaryString()",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/DataManager.swift",
+      "line": 349,
+      "symbol": "DataManager.getAPIResponseFile(_:methodName:dataArray:success:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/DataManager.swift",
+      "line": 386,
+      "symbol": "DataManager.createBodyWithParameters(parameters:imageArray:boundary:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/DataManager.swift",
+      "line": 430,
+      "symbol": "DataManager.randomStringWithLength(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/DataManager.swift",
+      "line": 442,
+      "symbol": "DataManager.getOtherAPI(_:success:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/DataManager.swift",
+      "line": 447,
+      "symbol": "DataManager.getSubmitAPIResponse(_:MethodName:success:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/DataManager.swift",
+      "line": 469,
+      "symbol": "DataManager.loadDataFromURL(_:completion:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/HRToast+UIView.swift",
+      "line": 15,
+      "symbol": "/(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/HRToast+UIView.swift",
+      "line": 22,
+      "symbol": "HRToastDefaultDuration",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/HRToast+UIView.swift",
+      "line": 23,
+      "symbol": "HRToastFadeDuration",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/HRToast+UIView.swift",
+      "line": 24,
+      "symbol": "HRToastHorizontalMargin",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/HRToast+UIView.swift",
+      "line": 25,
+      "symbol": "HRToastVerticalMargin",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/HRToast+UIView.swift",
+      "line": 27,
+      "symbol": "HRToastPositionDefault",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/HRToast+UIView.swift",
+      "line": 28,
+      "symbol": "HRToastPositionTop",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/HRToast+UIView.swift",
+      "line": 29,
+      "symbol": "HRToastPositionCenter",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/HRToast+UIView.swift",
+      "line": 32,
+      "symbol": "HRToastActivityWidth",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/HRToast+UIView.swift",
+      "line": 33,
+      "symbol": "HRToastActivityHeight",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/HRToast+UIView.swift",
+      "line": 34,
+      "symbol": "HRToastActivityPositionDefault",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/HRToast+UIView.swift",
+      "line": 37,
+      "symbol": "HRToastImageViewWidth",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/HRToast+UIView.swift",
+      "line": 38,
+      "symbol": "HRToastImageViewHeight",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/HRToast+UIView.swift",
+      "line": 41,
+      "symbol": "HRToastMaxWidth",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/HRToast+UIView.swift",
+      "line": 42,
+      "symbol": "HRToastMaxHeight",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/HRToast+UIView.swift",
+      "line": 43,
+      "symbol": "HRToastFontSize",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/HRToast+UIView.swift",
+      "line": 44,
+      "symbol": "HRToastMaxTitleLines",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/HRToast+UIView.swift",
+      "line": 45,
+      "symbol": "HRToastMaxMessageLines",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/HRToast+UIView.swift",
+      "line": 48,
+      "symbol": "HRToastShadowOpacity",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/HRToast+UIView.swift",
+      "line": 49,
+      "symbol": "HRToastShadowRadius",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/HRToast+UIView.swift",
+      "line": 50,
+      "symbol": "HRToastShadowOffset",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/HRToast+UIView.swift",
+      "line": 52,
+      "symbol": "HRToastOpacity",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/HRToast+UIView.swift",
+      "line": 53,
+      "symbol": "HRToastCornerRadius",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/HRToast+UIView.swift",
+      "line": 55,
+      "symbol": "HRToastActivityView",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/HRToast+UIView.swift",
+      "line": 56,
+      "symbol": "HRToastTimer",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/HRToast+UIView.swift",
+      "line": 57,
+      "symbol": "HRToastView",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/HRToast+UIView.swift",
+      "line": 58,
+      "symbol": "HRToastThemeColor",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/HRToast+UIView.swift",
+      "line": 59,
+      "symbol": "HRToastTitleFontName",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/HRToast+UIView.swift",
+      "line": 60,
+      "symbol": "HRToastFontName",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/HRToast+UIView.swift",
+      "line": 61,
+      "symbol": "HRToastFontColor",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/HRToast+UIView.swift",
+      "line": 66,
+      "symbol": "HRToastHidesOnTap",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/HRToast+UIView.swift",
+      "line": 67,
+      "symbol": "HRToastDisplayShadow",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/HRToast+UIView.swift",
+      "line": 76,
+      "symbol": "UIView.hr_setToastThemeColor(color:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/HRToast+UIView.swift",
+      "line": 80,
+      "symbol": "UIView.hr_toastThemeColor()",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/HRToast+UIView.swift",
+      "line": 90,
+      "symbol": "UIView.hr_setToastTitleFontName(fontName:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/HRToast+UIView.swift",
+      "line": 94,
+      "symbol": "UIView.hr_toastTitleFontName()",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/HRToast+UIView.swift",
+      "line": 105,
+      "symbol": "UIView.hr_setToastFontName(fontName:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/HRToast+UIView.swift",
+      "line": 109,
+      "symbol": "UIView.hr_toastFontName()",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/HRToast+UIView.swift",
+      "line": 120,
+      "symbol": "UIView.hr_setToastFontColor(color:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/HRToast+UIView.swift",
+      "line": 124,
+      "symbol": "UIView.hr_toastFontColor()",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/HRToast+UIView.swift",
+      "line": 134,
+      "symbol": "UIView.makeToast(message:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/HRToast+UIView.swift",
+      "line": 138,
+      "symbol": "UIView.makeToast(message:duration:position:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/HRToast+UIView.swift",
+      "line": 143,
+      "symbol": "UIView.makeToast(message:duration:position:title:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/HRToast+UIView.swift",
+      "line": 148,
+      "symbol": "UIView.makeToast(message:duration:position:image:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/HRToast+UIView.swift",
+      "line": 153,
+      "symbol": "UIView.makeToast(message:duration:position:title:image:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/HRToast+UIView.swift",
+      "line": 158,
+      "symbol": "UIView.showToast(toast:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/HRToast+UIView.swift",
+      "line": 196,
+      "symbol": "UIView.makeToastActivity()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/HRToast+UIView.swift",
+      "line": 200,
+      "symbol": "UIView.makeToastActivity(message:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/HRToast+UIView.swift",
+      "line": 252,
+      "symbol": "UIView.hideToastActivity()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/HRToast+UIView.swift",
+      "line": 270,
+      "symbol": "UIView.hideToast(toast:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/HRToast+UIView.swift",
+      "line": 274,
+      "symbol": "UIView.hideToast(toast:force:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/HRToast+UIView.swift",
+      "line": 293,
+      "symbol": "UIView.toastTimerDidFinish(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/HRToast+UIView.swift",
+      "line": 297,
+      "symbol": "UIView.handleToastTapped(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/HRToast+UIView.swift",
+      "line": 436,
+      "symbol": "String.stringHeightWithFontSize(_:width:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/ResponsiveButton.swift",
+      "line": 12,
+      "symbol": "ResponsiveButton",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/ResponsiveButton.swift",
+      "line": 15,
+      "symbol": "ResponsiveButton.hitTest(_:with:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/ValidationClass.swift",
+      "line": 30,
+      "symbol": "ValidationClass",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/ValidationClass.swift",
+      "line": 32,
+      "symbol": "ValidationClass.validateUrl(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/ValidationClass.swift",
+      "line": 40,
+      "symbol": "ValidationClass.isBlank(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/ValidationClass.swift",
+      "line": 49,
+      "symbol": "ValidationClass.isTextViewBlank(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/ValidationClass.swift",
+      "line": 56,
+      "symbol": "ValidationClass.isValidEmail(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/ValidationClass.swift",
+      "line": 64,
+      "symbol": "ValidationClass.isValidPWD(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/ValidationClass.swift",
+      "line": 71,
+      "symbol": "ValidationClass.ValidateSignInForm(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/ValidationClass.swift",
+      "line": 89,
+      "symbol": "ValidationClass.ValidateSignUpForm(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/ValidationClass.swift",
+      "line": 127,
+      "symbol": "ValidationClass.ValidateOtp(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/ValidationClass.swift",
+      "line": 136,
+      "symbol": "ValidationClass.ValidateForgotPasswordForm(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/ValidationClass.swift",
+      "line": 150,
+      "symbol": "ValidationClass.ValidateResetPasswordForm(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/ValidationClass.swift",
+      "line": 175,
+      "symbol": "ValidationClass.ValidateEditProfileForm(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/ValidationClass.swift",
+      "line": 185,
+      "symbol": "ValidationClass.ValidateChangePasswordForm(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/ValidationClass.swift",
+      "line": 217,
+      "symbol": "ValidationClass.ValidateContactUsForm(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/ValidationClass.swift",
+      "line": 241,
+      "symbol": "ValidationClass.ValidateAddMemberForm(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/AddMemberVC.swift",
+      "line": 11,
+      "symbol": "AddMemberVC",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/AddMemberVC.swift",
+      "line": 15,
+      "symbol": "AddMemberVC.txtName",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/AddMemberVC.swift",
+      "line": 16,
+      "symbol": "AddMemberVC.txtEmail",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/AddMemberVC.swift",
+      "line": 20,
+      "symbol": "AddMemberVC.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/AddMemberVC.swift",
+      "line": 27,
+      "symbol": "AddMemberVC.btnBack_DidSelect(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/AddMemberVC.swift",
+      "line": 32,
+      "symbol": "AddMemberVC.btnSendInvitation_DidiSelect(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/BlessFriendVC.swift",
+      "line": 11,
+      "symbol": "BlessFriendVC",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/BlessFriendVC.swift",
+      "line": 15,
+      "symbol": "BlessFriendVC.btnChooseSubscriptionPlan",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/BlessFriendVC.swift",
+      "line": 18,
+      "symbol": "BlessFriendVC.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/BlessFriendVC.swift",
+      "line": 26,
+      "symbol": "BlessFriendVC.btnBack_DidSelect(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/ChangePassword.swift",
+      "line": 11,
+      "symbol": "ChangePassword",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/ChangePassword.swift",
+      "line": 15,
+      "symbol": "ChangePassword.txtCurrentPassword",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/ChangePassword.swift",
+      "line": 16,
+      "symbol": "ChangePassword.txtNewPassword",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/ChangePassword.swift",
+      "line": 17,
+      "symbol": "ChangePassword.txtConfirmPassword",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/ChangePassword.swift",
+      "line": 22,
+      "symbol": "ChangePassword.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/ChangePassword.swift",
+      "line": 29,
+      "symbol": "ChangePassword.btnBack_DidSelect(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/ChangePassword.swift",
+      "line": 33,
+      "symbol": "ChangePassword.btnUpdate_DidSelect(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/ContactUs.swift",
+      "line": 12,
+      "symbol": "ContactUs",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/ContactUs.swift",
+      "line": 16,
+      "symbol": "ContactUs.txtSubject",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/ContactUs.swift",
+      "line": 17,
+      "symbol": "ContactUs.txtMeassage",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/ContactUs.swift",
+      "line": 20,
+      "symbol": "ContactUs.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/ContactUs.swift",
+      "line": 27,
+      "symbol": "ContactUs.btnBack_DidSelect(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/ContactUs.swift",
+      "line": 31,
+      "symbol": "ContactUs.btnSend_DidiSelect(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/DiscoverDetailsVC.swift",
+      "line": 13,
+      "symbol": "Epub",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/DiscoverDetailsVC.swift",
+      "line": 14,
+      "symbol": "Epub.bookOne",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/DiscoverDetailsVC.swift",
+      "line": 15,
+      "symbol": "Epub.bookTwo",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/DiscoverDetailsVC.swift",
+      "line": 17,
+      "symbol": "Epub.name",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/DiscoverDetailsVC.swift",
+      "line": 24,
+      "symbol": "Epub.shouldHideNavigationOnTap",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/DiscoverDetailsVC.swift",
+      "line": 31,
+      "symbol": "Epub.scrollDirection",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/DiscoverDetailsVC.swift",
+      "line": 38,
+      "symbol": "Epub.bookPath",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/DiscoverDetailsVC.swift",
+      "line": 44,
+      "symbol": "Epub.readerIdentifier",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/DiscoverDetailsVC.swift",
+      "line": 52,
+      "symbol": "DiscoverDetailsVC",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/DiscoverDetailsVC.swift",
+      "line": 55,
+      "symbol": "DiscoverDetailsVC.tblDiscoverDetails",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/DiscoverDetailsVC.swift",
+      "line": 56,
+      "symbol": "DiscoverDetailsVC.imgBook",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/DiscoverDetailsVC.swift",
+      "line": 57,
+      "symbol": "DiscoverDetailsVC.imgBookCover",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/DiscoverDetailsVC.swift",
+      "line": 58,
+      "symbol": "DiscoverDetailsVC.lblBookTitle",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/DiscoverDetailsVC.swift",
+      "line": 59,
+      "symbol": "DiscoverDetailsVC.lblAuthorNAme",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/DiscoverDetailsVC.swift",
+      "line": 61,
+      "symbol": "DiscoverDetailsVC.bookId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/DiscoverDetailsVC.swift",
+      "line": 62,
+      "symbol": "DiscoverDetailsVC.dictBookDetails",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/DiscoverDetailsVC.swift",
+      "line": 63,
+      "symbol": "DiscoverDetailsVC.folioReader",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/DiscoverDetailsVC.swift",
+      "line": 65,
+      "symbol": "DiscoverDetailsVC.cat_id",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/DiscoverDetailsVC.swift",
+      "line": 67,
+      "symbol": "DiscoverDetailsVC.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/DiscoverDetailsVC.swift",
+      "line": 79,
+      "symbol": "DiscoverDetailsVC.viewWillAppear(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/DiscoverDetailsVC.swift",
+      "line": 83,
+      "symbol": "DiscoverDetailsVC.open(epub:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/DiscoverDetailsVC.swift",
+      "line": 126,
+      "symbol": "DiscoverDetailsVC.btnBack_DidSelect(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/DiscoverDetailsVC.swift",
+      "line": 132,
+      "symbol": "DiscoverDetailsVC.btnRead_DidSelect(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/DiscoverDetailsVC.swift",
+      "line": 143,
+      "symbol": "DiscoverDetailsVC.btnListin_DidSelect(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/DiscoverDetailsVC.swift",
+      "line": 148,
+      "symbol": "DiscoverDetailsVC.btnWatch_DidSelect(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/DiscoverDetailsVC.swift",
+      "line": 154,
+      "symbol": "DiscoverDetailsVC.tableView(_:numberOfRowsInSection:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/DiscoverDetailsVC.swift",
+      "line": 158,
+      "symbol": "DiscoverDetailsVC.tableView(_:cellForRowAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/DiscoverDetailsVC.swift",
+      "line": 166,
+      "symbol": "DiscoverDetailsVC.tableView(_:didSelectRowAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/DiscoverDetailsVC.swift",
+      "line": 171,
+      "symbol": "DiscoverDetailsVC.getBookDetail()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/DiscoverDetailsVC.swift",
+      "line": 194,
+      "symbol": "DiscoverDetailsVC.setBookDetails()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/DiscoverVC.swift",
+      "line": 12,
+      "symbol": "DiscoverVC",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/DiscoverVC.swift",
+      "line": 15,
+      "symbol": "DiscoverVC.lblCategoryTitle",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/DiscoverVC.swift",
+      "line": 16,
+      "symbol": "DiscoverVC.viewSearch",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/DiscoverVC.swift",
+      "line": 17,
+      "symbol": "DiscoverVC.tblDiscover",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/DiscoverVC.swift",
+      "line": 18,
+      "symbol": "DiscoverVC.CategoriesCollectionView",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/DiscoverVC.swift",
+      "line": 19,
+      "symbol": "DiscoverVC.lblSelectedCategoryTitle",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/DiscoverVC.swift",
+      "line": 20,
+      "symbol": "DiscoverVC.lblNoBookFound",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/DiscoverVC.swift",
+      "line": 21,
+      "symbol": "DiscoverVC.txtSearch",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/DiscoverVC.swift",
+      "line": 24,
+      "symbol": "DiscoverVC.arrBooksCategories",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/DiscoverVC.swift",
+      "line": 25,
+      "symbol": "DiscoverVC.arrCategorizedBooksList",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/DiscoverVC.swift",
+      "line": 26,
+      "symbol": "DiscoverVC.categoryId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/DiscoverVC.swift",
+      "line": 27,
+      "symbol": "DiscoverVC.arrSearch",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/DiscoverVC.swift",
+      "line": 28,
+      "symbol": "DiscoverVC.newString",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/DiscoverVC.swift",
+      "line": 29,
+      "symbol": "DiscoverVC.searched",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/DiscoverVC.swift",
+      "line": 32,
+      "symbol": "DiscoverVC.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/DiscoverVC.swift",
+      "line": 47,
+      "symbol": "DiscoverVC.viewWillAppear(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/DiscoverVC.swift",
+      "line": 55,
+      "symbol": "DiscoverVC.collectionView(_:numberOfItemsInSection:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/DiscoverVC.swift",
+      "line": 59,
+      "symbol": "DiscoverVC.collectionView(_:cellForItemAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/DiscoverVC.swift",
+      "line": 80,
+      "symbol": "DiscoverVC.collectionView(_:didSelectItemAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/DiscoverVC.swift",
+      "line": 95,
+      "symbol": "DiscoverVC.tableView(_:numberOfRowsInSection:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/DiscoverVC.swift",
+      "line": 103,
+      "symbol": "DiscoverVC.tableView(_:cellForRowAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/DiscoverVC.swift",
+      "line": 135,
+      "symbol": "DiscoverVC.tableView(_:didSelectRowAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/DiscoverVC.swift",
+      "line": 172,
+      "symbol": "DiscoverVC.textFieldDidEndEditing(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/DiscoverVC.swift",
+      "line": 180,
+      "symbol": "DiscoverVC.textFieldShouldReturn(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/DiscoverVC.swift",
+      "line": 190,
+      "symbol": "DiscoverVC.getCategoriesData()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/DiscoverVC.swift",
+      "line": 216,
+      "symbol": "DiscoverVC.getCategorisedBookData(categoryID:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/DiscoverVC.swift",
+      "line": 241,
+      "symbol": "DiscoverVC.getSeachBook()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/EditProfileVC.swift",
+      "line": 12,
+      "symbol": "EditProfileVC",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/EditProfileVC.swift",
+      "line": 16,
+      "symbol": "EditProfileVC.txtUserName",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/EditProfileVC.swift",
+      "line": 17,
+      "symbol": "EditProfileVC.txtEmail",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/EditProfileVC.swift",
+      "line": 18,
+      "symbol": "EditProfileVC.imgProfile",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/EditProfileVC.swift",
+      "line": 21,
+      "symbol": "EditProfileVC.imagePicker",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/EditProfileVC.swift",
+      "line": 22,
+      "symbol": "EditProfileVC.imageData",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/EditProfileVC.swift",
+      "line": 23,
+      "symbol": "EditProfileVC.dicUserDetails",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/EditProfileVC.swift",
+      "line": 25,
+      "symbol": "EditProfileVC.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/EditProfileVC.swift",
+      "line": 34,
+      "symbol": "EditProfileVC.btnBack_DidSelect(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/EditProfileVC.swift",
+      "line": 40,
+      "symbol": "EditProfileVC.btnEditProfilePhoto(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/EditProfileVC.swift",
+      "line": 66,
+      "symbol": "EditProfileVC.openGallary()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/EditProfileVC.swift",
+      "line": 71,
+      "symbol": "EditProfileVC.openCamera()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/EditProfileVC.swift",
+      "line": 81,
+      "symbol": "EditProfileVC.btnUpdate_DidSelect(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/EditProfileVC.swift",
+      "line": 124,
+      "symbol": "EditProfileVC.imagePickerController(_:didFinishPickingMediaWithInfo:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/EditProfileVC.swift",
+      "line": 131,
+      "symbol": "EditProfileVC.imagePickerControllerDidCancel(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/EditProfileVC.swift",
+      "line": 134,
+      "symbol": "EditProfileVC.cancel()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/EditProfileVC.swift",
+      "line": 140,
+      "symbol": "EditProfileVC.getProfileData()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/EditProfileVC.swift",
+      "line": 164,
+      "symbol": "EditProfileVC.setProfileData()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/ForgotPasswordVC.swift",
+      "line": 11,
+      "symbol": "ForgotPasswordVC",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/ForgotPasswordVC.swift",
+      "line": 14,
+      "symbol": "ForgotPasswordVC.txtEmail",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/ForgotPasswordVC.swift",
+      "line": 18,
+      "symbol": "ForgotPasswordVC.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/ForgotPasswordVC.swift",
+      "line": 25,
+      "symbol": "ForgotPasswordVC.btnUpdate_DidSelect(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/ForgotPasswordVC.swift",
+      "line": 53,
+      "symbol": "ForgotPasswordVC.btnClose_DidSelect(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/HomeVC.swift",
+      "line": 16,
+      "symbol": "HomeVC",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/HomeVC.swift",
+      "line": 21,
+      "symbol": "HomeVC.VideoCollectionView",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/HomeVC.swift",
+      "line": 22,
+      "symbol": "HomeVC.CategoriesCollectionView",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/HomeVC.swift",
+      "line": 23,
+      "symbol": "HomeVC.RecommendedCollectionView",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/HomeVC.swift",
+      "line": 24,
+      "symbol": "HomeVC.CuratedCollectionView",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/HomeVC.swift",
+      "line": 25,
+      "symbol": "HomeVC.MostPopularCollectionView",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/HomeVC.swift",
+      "line": 26,
+      "symbol": "HomeVC.LatestCollectionView",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/HomeVC.swift",
+      "line": 30,
+      "symbol": "HomeVC.arrBooksCategories",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/HomeVC.swift",
+      "line": 31,
+      "symbol": "HomeVC.arrCuratedBookList",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/HomeVC.swift",
+      "line": 32,
+      "symbol": "HomeVC.arrLatestBook",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/HomeVC.swift",
+      "line": 33,
+      "symbol": "HomeVC.arrMostPopularBook",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/HomeVC.swift",
+      "line": 36,
+      "symbol": "HomeVC.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/HomeVC.swift",
+      "line": 98,
+      "symbol": "HomeVC.viewWillAppear(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/HomeVC.swift",
+      "line": 103,
+      "symbol": "HomeVC.btnNotification_DidSelect(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/HomeVC.swift",
+      "line": 111,
+      "symbol": "HomeVC.collectionView(_:numberOfItemsInSection:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/HomeVC.swift",
+      "line": 125,
+      "symbol": "HomeVC.collectionView(_:cellForItemAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/HomeVC.swift",
+      "line": 254,
+      "symbol": "HomeVC.collectionView(_:willDisplay:forItemAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/HomeVC.swift",
+      "line": 263,
+      "symbol": "HomeVC.collectionView(_:didSelectItemAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/HomeVC.swift",
+      "line": 324,
+      "symbol": "HomeVC.nextButtonTapped(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/HomeVC.swift",
+      "line": 332,
+      "symbol": "HomeVC.previousButtonTapped(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/HomeVC.swift",
+      "line": 341,
+      "symbol": "HomeVC.createThumbnailOfVideoFromRemoteUrl(url:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/HomeVC.swift",
+      "line": 360,
+      "symbol": "HomeVC.getHomeData()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/IntroductionVC.swift",
+      "line": 11,
+      "symbol": "IntroductionVC",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/IntroductionVC.swift",
+      "line": 13,
+      "symbol": "IntroductionVC.colIntro",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/IntroductionVC.swift",
+      "line": 14,
+      "symbol": "IntroductionVC.pageIndicator",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/IntroductionVC.swift",
+      "line": 19,
+      "symbol": "IntroductionVC.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/IntroductionVC.swift",
+      "line": 28,
+      "symbol": "IntroductionVC.viewWillAppear(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/IntroductionVC.swift",
+      "line": 34,
+      "symbol": "IntroductionVC.createIntroSlides()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/IntroductionVC.swift",
+      "line": 63,
+      "symbol": "IntroductionVC.collectionView(_:numberOfItemsInSection:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/IntroductionVC.swift",
+      "line": 67,
+      "symbol": "IntroductionVC.collectionView(_:layout:sizeForItemAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/IntroductionVC.swift",
+      "line": 71,
+      "symbol": "IntroductionVC.collectionView(_:willDisplay:forItemAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/IntroductionVC.swift",
+      "line": 75,
+      "symbol": "IntroductionVC.collectionView(_:cellForItemAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/IntroductionVC.swift",
+      "line": 92,
+      "symbol": "IntroductionVC.actionBtnSkip(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/IntroductionVC.swift",
+      "line": 122,
+      "symbol": "IntroductionVC.actionBtnNext(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/ListinMusicVC.swift",
+      "line": 14,
+      "symbol": "ListinMusicVC",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/ListinMusicVC.swift",
+      "line": 18,
+      "symbol": "ListinMusicVC.lblAuthor",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/ListinMusicVC.swift",
+      "line": 19,
+      "symbol": "ListinMusicVC.lblBookTitle",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/ListinMusicVC.swift",
+      "line": 20,
+      "symbol": "ListinMusicVC.imgCover",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/ListinMusicVC.swift",
+      "line": 21,
+      "symbol": "ListinMusicVC.imgBook",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/ListinMusicVC.swift",
+      "line": 22,
+      "symbol": "ListinMusicVC.viewPlaylist",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/ListinMusicVC.swift",
+      "line": 23,
+      "symbol": "ListinMusicVC.tblPlaylist",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/ListinMusicVC.swift",
+      "line": 24,
+      "symbol": "ListinMusicVC.btnPlay",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/ListinMusicVC.swift",
+      "line": 25,
+      "symbol": "ListinMusicVC.musicPlayerSlider",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/ListinMusicVC.swift",
+      "line": 26,
+      "symbol": "ListinMusicVC.lblStartTime",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/ListinMusicVC.swift",
+      "line": 27,
+      "symbol": "ListinMusicVC.lblEndTime",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/ListinMusicVC.swift",
+      "line": 30,
+      "symbol": "ListinMusicVC.dictBookDetails",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/ListinMusicVC.swift",
+      "line": 31,
+      "symbol": "ListinMusicVC.audioPlayer",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/ListinMusicVC.swift",
+      "line": 32,
+      "symbol": "ListinMusicVC.currentAudioPath",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/ListinMusicVC.swift",
+      "line": 33,
+      "symbol": "ListinMusicVC.audioLength",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/ListinMusicVC.swift",
+      "line": 34,
+      "symbol": "ListinMusicVC.audioData",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/ListinMusicVC.swift",
+      "line": 35,
+      "symbol": "ListinMusicVC.timer",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/ListinMusicVC.swift",
+      "line": 38,
+      "symbol": "ListinMusicVC.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/ListinMusicVC.swift",
+      "line": 76,
+      "symbol": "ListinMusicVC.viewWillAppear(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/ListinMusicVC.swift",
+      "line": 80,
+      "symbol": "ListinMusicVC.handleTap(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/ListinMusicVC.swift",
+      "line": 86,
+      "symbol": "ListinMusicVC.btnBack_DidSelect(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/ListinMusicVC.swift",
+      "line": 93,
+      "symbol": "ListinMusicVC.btnShowMusicList_DidSelect(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/ListinMusicVC.swift",
+      "line": 98,
+      "symbol": "ListinMusicVC.btnSkipBackword30SecondsPressed(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/ListinMusicVC.swift",
+      "line": 108,
+      "symbol": "ListinMusicVC.btnSkipForward30SecondsPressed(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/ListinMusicVC.swift",
+      "line": 117,
+      "symbol": "ListinMusicVC.btnNext(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/ListinMusicVC.swift",
+      "line": 120,
+      "symbol": "ListinMusicVC.btnPrev(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/ListinMusicVC.swift",
+      "line": 123,
+      "symbol": "ListinMusicVC.btnPlay(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/ListinMusicVC.swift",
+      "line": 133,
+      "symbol": "ListinMusicVC.audioSlider(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/ListinMusicVC.swift",
+      "line": 137,
+      "symbol": "ListinMusicVC.DownloadAudio(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/ListinMusicVC.swift",
+      "line": 172,
+      "symbol": "ListinMusicVC.tableView(_:numberOfRowsInSection:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/ListinMusicVC.swift",
+      "line": 176,
+      "symbol": "ListinMusicVC.tableView(_:cellForRowAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/ListinMusicVC.swift",
+      "line": 184,
+      "symbol": "ListinMusicVC.tableView(_:didSelectRowAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/ListinMusicVC.swift",
+      "line": 189,
+      "symbol": "ListinMusicVC.prepareMusicPlayer()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/ListinMusicVC.swift",
+      "line": 211,
+      "symbol": "ListinMusicVC.playAudio()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/ListinMusicVC.swift",
+      "line": 215,
+      "symbol": "ListinMusicVC.pauseAudio()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/ListinMusicVC.swift",
+      "line": 219,
+      "symbol": "ListinMusicVC.calculateSongLength()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/ListinMusicVC.swift",
+      "line": 224,
+      "symbol": "ListinMusicVC.startTimer()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/ListinMusicVC.swift",
+      "line": 231,
+      "symbol": "ListinMusicVC.update(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/ListinMusicVC.swift",
+      "line": 241,
+      "symbol": "ListinMusicVC.calculateTimeFromNSTimeInterval(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/ListinMusicVC.swift",
+      "line": 252,
+      "symbol": "ListinMusicVC.stopTimer()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/ListinMusicVC.swift",
+      "line": 258,
+      "symbol": "ListinMusicVC.retrievePlayerProgressSliderValue()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/ListinMusicVC.swift",
+      "line": 276,
+      "symbol": "ListinMusicVC.audioPlayerDidFinishPlaying(_:successfully:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/MembershipPlanVC.swift",
+      "line": 11,
+      "symbol": "MembershipPlanVC",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/MembershipPlanVC.swift",
+      "line": 13,
+      "symbol": "MembershipPlanVC.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/MembershipPlanVC.swift",
+      "line": 20,
+      "symbol": "MembershipPlanVC.viewWillAppear(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/MembershipPlanVC.swift",
+      "line": 25,
+      "symbol": "MembershipPlanVC.btnIndividualPlan_DidSelect(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/MembershipPlanVC.swift",
+      "line": 29,
+      "symbol": "MembershipPlanVC.btnFamilyPlan_DidSelect(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/MembershipPlanVC.swift",
+      "line": 34,
+      "symbol": "MembershipPlanVC.btnSmallGroupPlan_DidSelect(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/MembershipPlanVC.swift",
+      "line": 38,
+      "symbol": "MembershipPlanVC.btnChurchPlan_DidSelect(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/MyDownloadsVC.swift",
+      "line": 11,
+      "symbol": "MyDownloadsVC",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/MyDownloadsVC.swift",
+      "line": 14,
+      "symbol": "MyDownloadsVC.tblMyDownloads",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/MyDownloadsVC.swift",
+      "line": 18,
+      "symbol": "MyDownloadsVC.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/MyDownloadsVC.swift",
+      "line": 27,
+      "symbol": "MyDownloadsVC.btnBack_DidSelect(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/MyDownloadsVC.swift",
+      "line": 30,
+      "symbol": "MyDownloadsVC.btnDelete_DidSelect(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/MyDownloadsVC.swift",
+      "line": 36,
+      "symbol": "MyDownloadsVC.tableView(_:numberOfRowsInSection:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/MyDownloadsVC.swift",
+      "line": 40,
+      "symbol": "MyDownloadsVC.tableView(_:cellForRowAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/MyDownloadsVC.swift",
+      "line": 45,
+      "symbol": "MyDownloadsVC.tableView(_:didSelectRowAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/MyLibraryVC.swift",
+      "line": 11,
+      "symbol": "MyLibraryVC",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/MyLibraryVC.swift",
+      "line": 14,
+      "symbol": "MyLibraryVC.viewSearch",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/MyLibraryVC.swift",
+      "line": 15,
+      "symbol": "MyLibraryVC.LibariryTypeCollectionView",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/MyLibraryVC.swift",
+      "line": 16,
+      "symbol": "MyLibraryVC.LibariryCollectionView",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/MyLibraryVC.swift",
+      "line": 17,
+      "symbol": "MyLibraryVC.tblMyNotesHighlights",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/MyLibraryVC.swift",
+      "line": 20,
+      "symbol": "MyLibraryVC.arrTypes",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/MyLibraryVC.swift",
+      "line": 22,
+      "symbol": "MyLibraryVC.Liked",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/MyLibraryVC.swift",
+      "line": 25,
+      "symbol": "MyLibraryVC.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/MyLibraryVC.swift",
+      "line": 53,
+      "symbol": "MyLibraryVC.collectionView(_:numberOfItemsInSection:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/MyLibraryVC.swift",
+      "line": 63,
+      "symbol": "MyLibraryVC.collectionView(_:cellForItemAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/MyLibraryVC.swift",
+      "line": 92,
+      "symbol": "MyLibraryVC.collectionView(_:didSelectItemAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/MyLibraryVC.swift",
+      "line": 136,
+      "symbol": "MyLibraryVC.tableView(_:numberOfRowsInSection:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/MyLibraryVC.swift",
+      "line": 140,
+      "symbol": "MyLibraryVC.tableView(_:cellForRowAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/MySubscriptionVC.swift",
+      "line": 11,
+      "symbol": "MySubscriptionVC",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/MySubscriptionVC.swift",
+      "line": 15,
+      "symbol": "MySubscriptionVC.webView",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/MySubscriptionVC.swift",
+      "line": 16,
+      "symbol": "MySubscriptionVC.tblMySubscription",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/MySubscriptionVC.swift",
+      "line": 17,
+      "symbol": "MySubscriptionVC.lblPlanName",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/MySubscriptionVC.swift",
+      "line": 18,
+      "symbol": "MySubscriptionVC.lblPlanDetails",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/MySubscriptionVC.swift",
+      "line": 19,
+      "symbol": "MySubscriptionVC.lblPrice",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/MySubscriptionVC.swift",
+      "line": 20,
+      "symbol": "MySubscriptionVC.lblPlanDuration",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/MySubscriptionVC.swift",
+      "line": 23,
+      "symbol": "MySubscriptionVC.dictSubscriptionDetails",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/MySubscriptionVC.swift",
+      "line": 27,
+      "symbol": "MySubscriptionVC.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/MySubscriptionVC.swift",
+      "line": 33,
+      "symbol": "MySubscriptionVC.viewWillAppear(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/MySubscriptionVC.swift",
+      "line": 39,
+      "symbol": "MySubscriptionVC.btnBack_DidSelect(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/MySubscriptionVC.swift",
+      "line": 43,
+      "symbol": "MySubscriptionVC.btnUpdateTapped_DidSelect(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/MySubscriptionVC.swift",
+      "line": 48,
+      "symbol": "MySubscriptionVC.btnAddMember_DidSelect(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/MySubscriptionVC.swift",
+      "line": 54,
+      "symbol": "MySubscriptionVC.tableView(_:numberOfRowsInSection:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/MySubscriptionVC.swift",
+      "line": 58,
+      "symbol": "MySubscriptionVC.tableView(_:cellForRowAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/MySubscriptionVC.swift",
+      "line": 63,
+      "symbol": "MySubscriptionVC.tableView(_:didSelectRowAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/MySubscriptionVC.swift",
+      "line": 69,
+      "symbol": "MySubscriptionVC.mySubscriptionApi()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/MySubscriptionVC.swift",
+      "line": 102,
+      "symbol": "MySubscriptionVC.setSubsciptionData()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/NotificationVC.swift",
+      "line": 11,
+      "symbol": "NotificationVC",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/NotificationVC.swift",
+      "line": 14,
+      "symbol": "NotificationVC.tblNotification",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/NotificationVC.swift",
+      "line": 17,
+      "symbol": "NotificationVC.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/NotificationVC.swift",
+      "line": 27,
+      "symbol": "NotificationVC.btnBack_DidSelect(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/NotificationVC.swift",
+      "line": 31,
+      "symbol": "NotificationVC.tableView(_:numberOfRowsInSection:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/NotificationVC.swift",
+      "line": 35,
+      "symbol": "NotificationVC.tableView(_:cellForRowAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/NotificationVC.swift",
+      "line": 40,
+      "symbol": "NotificationVC.tableView(_:didSelectRowAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/OTPVerificationVC.swift",
+      "line": 11,
+      "symbol": "OTPVerificationVC",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/OTPVerificationVC.swift",
+      "line": 14,
+      "symbol": "OTPVerificationVC.txtOtp",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/OTPVerificationVC.swift",
+      "line": 15,
+      "symbol": "OTPVerificationVC.btnResend",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/OTPVerificationVC.swift",
+      "line": 19,
+      "symbol": "OTPVerificationVC.isFrom",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/OTPVerificationVC.swift",
+      "line": 20,
+      "symbol": "OTPVerificationVC.strEmail",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/OTPVerificationVC.swift",
+      "line": 24,
+      "symbol": "OTPVerificationVC.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/OTPVerificationVC.swift",
+      "line": 34,
+      "symbol": "OTPVerificationVC.btnSubmit_DidSelect(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/OTPVerificationVC.swift",
+      "line": 74,
+      "symbol": "OTPVerificationVC.btnClose_DidSelect(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/OTPVerificationVC.swift",
+      "line": 78,
+      "symbol": "OTPVerificationVC.btnResend_DidSelect(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/ReadListVC.swift",
+      "line": 11,
+      "symbol": "ReadListVC",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/ReadListVC.swift",
+      "line": 14,
+      "symbol": "ReadListVC.tblReadList",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/ReadListVC.swift",
+      "line": 15,
+      "symbol": "ReadListVC.viewMenu",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/ReadListVC.swift",
+      "line": 18,
+      "symbol": "ReadListVC.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/ReadListVC.swift",
+      "line": 28,
+      "symbol": "ReadListVC.btnBack_DidSelect(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/ReadListVC.swift",
+      "line": 33,
+      "symbol": "ReadListVC.tableView(_:numberOfRowsInSection:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/ReadListVC.swift",
+      "line": 37,
+      "symbol": "ReadListVC.tableView(_:cellForRowAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/ReadListVC.swift",
+      "line": 42,
+      "symbol": "ReadListVC.tableView(_:didSelectRowAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/ReadVC.swift",
+      "line": 12,
+      "symbol": "ReadVC",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/ReadVC.swift",
+      "line": 15,
+      "symbol": "ReadVC.viewMenu",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/ReadVC.swift",
+      "line": 18,
+      "symbol": "ReadVC.dictBookDetails",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/ReadVC.swift",
+      "line": 21,
+      "symbol": "ReadVC.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/ReadVC.swift",
+      "line": 29,
+      "symbol": "ReadVC.btnBack_DidSelect(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/ResetPasswordVC.swift",
+      "line": 11,
+      "symbol": "ResetPasswordVC",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/ResetPasswordVC.swift",
+      "line": 14,
+      "symbol": "ResetPasswordVC.txtNewPassword",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/ResetPasswordVC.swift",
+      "line": 15,
+      "symbol": "ResetPasswordVC.txtConfirmPassword",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/ResetPasswordVC.swift",
+      "line": 18,
+      "symbol": "ResetPasswordVC.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/ResetPasswordVC.swift",
+      "line": 26,
+      "symbol": "ResetPasswordVC.btnDone_DidSelect(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/ResetPasswordVC.swift",
+      "line": 52,
+      "symbol": "ResetPasswordVC.btnClose_DidSelect(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/SettingVCViewController.swift",
+      "line": 12,
+      "symbol": "SettingVCViewController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/SettingVCViewController.swift",
+      "line": 15,
+      "symbol": "SettingVCViewController.tblSetting",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/SettingVCViewController.swift",
+      "line": 16,
+      "symbol": "SettingVCViewController.txtUsername",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/SettingVCViewController.swift",
+      "line": 17,
+      "symbol": "SettingVCViewController.txtEmail",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/SettingVCViewController.swift",
+      "line": 18,
+      "symbol": "SettingVCViewController.imgProfile",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/SettingVCViewController.swift",
+      "line": 22,
+      "symbol": "SettingVCViewController.arrTitles",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/SettingVCViewController.swift",
+      "line": 34,
+      "symbol": "SettingVCViewController.arrExpandImg",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/SettingVCViewController.swift",
+      "line": 35,
+      "symbol": "SettingVCViewController.notificationStatus",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/SettingVCViewController.swift",
+      "line": 39,
+      "symbol": "SettingVCViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/SettingVCViewController.swift",
+      "line": 44,
+      "symbol": "SettingVCViewController.viewWillAppear(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/SettingVCViewController.swift",
+      "line": 49,
+      "symbol": "SettingVCViewController.showUserData()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/SettingVCViewController.swift",
+      "line": 66,
+      "symbol": "SettingVCViewController.actionNotificationButtonClick(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/SettingVCViewController.swift",
+      "line": 78,
+      "symbol": "SettingVCViewController.actionRightButtonClick(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/SettingVCViewController.swift",
+      "line": 84,
+      "symbol": "SettingVCViewController.actionButtonHeaderClick(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/SettingVCViewController.swift",
+      "line": 143,
+      "symbol": "SettingVCViewController",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/SettingVCViewController.swift",
+      "line": 144,
+      "symbol": "SettingVCViewController.numberOfSections(in:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/SettingVCViewController.swift",
+      "line": 148,
+      "symbol": "SettingVCViewController.tableView(_:numberOfRowsInSection:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/SettingVCViewController.swift",
+      "line": 160,
+      "symbol": "SettingVCViewController.tableView(_:heightForRowAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/SettingVCViewController.swift",
+      "line": 164,
+      "symbol": "SettingVCViewController.tableView(_:heightForHeaderInSection:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/SettingVCViewController.swift",
+      "line": 168,
+      "symbol": "SettingVCViewController.tableView(_:viewForHeaderInSection:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/SettingVCViewController.swift",
+      "line": 228,
+      "symbol": "SettingVCViewController.tableView(_:cellForRowAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/SettingVCViewController.swift",
+      "line": 239,
+      "symbol": "SettingVCViewController.tableView(_:didSelectRowAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/SettingVCViewController.swift",
+      "line": 261,
+      "symbol": "SettingVCViewController.notificationApi()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/SignInVC.swift",
+      "line": 13,
+      "symbol": "SignInVC",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/SignInVC.swift",
+      "line": 16,
+      "symbol": "SignInVC.txtEmail",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/SignInVC.swift",
+      "line": 17,
+      "symbol": "SignInVC.txtPassword",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/SignInVC.swift",
+      "line": 20,
+      "symbol": "SignInVC.dictSocialInfo",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/SignInVC.swift",
+      "line": 23,
+      "symbol": "SignInVC.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/SignInVC.swift",
+      "line": 31,
+      "symbol": "SignInVC.btnSignIn_DidSelect(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/SignInVC.swift",
+      "line": 68,
+      "symbol": "SignInVC.btnClose_DidSelect(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/SignInVC.swift",
+      "line": 71,
+      "symbol": "SignInVC.btnFacebook_DidSelect(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/SignInVC.swift",
+      "line": 89,
+      "symbol": "SignInVC.getFBUserData()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/SignInVC.swift",
+      "line": 119,
+      "symbol": "SignInVC.btnForgotPassword_DidSelect(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/SignInVC.swift",
+      "line": 123,
+      "symbol": "SignInVC.btnNewCustomer_DidSelect(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/SignInVC.swift",
+      "line": 129,
+      "symbol": "SignInVC.facebookApiCall()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/SignUpVC.swift",
+      "line": 12,
+      "symbol": "SignUpVC",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/SignUpVC.swift",
+      "line": 15,
+      "symbol": "SignUpVC.txtEmail",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/SignUpVC.swift",
+      "line": 16,
+      "symbol": "SignUpVC.txtPassword",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/SignUpVC.swift",
+      "line": 17,
+      "symbol": "SignUpVC.txtConfirmPassword",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/SignUpVC.swift",
+      "line": 18,
+      "symbol": "SignUpVC.btnAgree",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/SignUpVC.swift",
+      "line": 19,
+      "symbol": "SignUpVC.imgProfile",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/SignUpVC.swift",
+      "line": 20,
+      "symbol": "SignUpVC.btnSelectProfilePic",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/SignUpVC.swift",
+      "line": 23,
+      "symbol": "SignUpVC.imagePicker",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/SignUpVC.swift",
+      "line": 24,
+      "symbol": "SignUpVC.imageData",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/SignUpVC.swift",
+      "line": 28,
+      "symbol": "SignUpVC.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/SignUpVC.swift",
+      "line": 35,
+      "symbol": "SignUpVC.viewWillAppear(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/SignUpVC.swift",
+      "line": 40,
+      "symbol": "SignUpVC.btnTermsCondition(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/SignUpVC.swift",
+      "line": 47,
+      "symbol": "SignUpVC.btnEditProfilePhoto(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/SignUpVC.swift",
+      "line": 71,
+      "symbol": "SignUpVC.openGallary()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/SignUpVC.swift",
+      "line": 76,
+      "symbol": "SignUpVC.openCamera()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/SignUpVC.swift",
+      "line": 86,
+      "symbol": "SignUpVC.btnSubmit_DidSelect(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/SignUpVC.swift",
+      "line": 148,
+      "symbol": "SignUpVC.btnSignIn_DidSelect(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/SignUpVC.swift",
+      "line": 153,
+      "symbol": "SignUpVC.btnAgree_didSelect(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/SignUpVC.swift",
+      "line": 158,
+      "symbol": "SignUpVC.btnAcceptTermsConditions_DidSelect(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/SignUpVC.swift",
+      "line": 162,
+      "symbol": "SignUpVC.btnClose_DidSelect(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/SignUpVC.swift",
+      "line": 168,
+      "symbol": "SignUpVC.imagePickerController(_:didFinishPickingMediaWithInfo:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/SignUpVC.swift",
+      "line": 178,
+      "symbol": "SignUpVC.imagePickerControllerDidCancel(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/SignUpVC.swift",
+      "line": 181,
+      "symbol": "SignUpVC.cancel()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/SubmitFeedbackVC.swift",
+      "line": 11,
+      "symbol": "SubmitFeedbackVC",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/SubmitFeedbackVC.swift",
+      "line": 13,
+      "symbol": "SubmitFeedbackVC.txtSubmitFeedback",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/SubmitFeedbackVC.swift",
+      "line": 14,
+      "symbol": "SubmitFeedbackVC.txtTitle",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/SubmitFeedbackVC.swift",
+      "line": 17,
+      "symbol": "SubmitFeedbackVC.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/SubmitFeedbackVC.swift",
+      "line": 26,
+      "symbol": "SubmitFeedbackVC.btnBack_DidSelect(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/SubscriptionPlanVC.swift",
+      "line": 11,
+      "symbol": "SubscriptionPlanVC",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/SubscriptionPlanVC.swift",
+      "line": 15,
+      "symbol": "SubscriptionPlanVC.tblPlanDetails",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/SubscriptionPlanVC.swift",
+      "line": 17,
+      "symbol": "SubscriptionPlanVC.btnWrittenSummaries",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/SubscriptionPlanVC.swift",
+      "line": 18,
+      "symbol": "SubscriptionPlanVC.btnAudioVideoSummaries",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/SubscriptionPlanVC.swift",
+      "line": 19,
+      "symbol": "SubscriptionPlanVC.btnAudioSummaries",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/SubscriptionPlanVC.swift",
+      "line": 21,
+      "symbol": "SubscriptionPlanVC.lblWrittenSummaries",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/SubscriptionPlanVC.swift",
+      "line": 22,
+      "symbol": "SubscriptionPlanVC.lblAudioVideoSummaries",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/SubscriptionPlanVC.swift",
+      "line": 23,
+      "symbol": "SubscriptionPlanVC.lblAudioSummaries",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/SubscriptionPlanVC.swift",
+      "line": 25,
+      "symbol": "SubscriptionPlanVC.imgWrittenSummaries",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/SubscriptionPlanVC.swift",
+      "line": 26,
+      "symbol": "SubscriptionPlanVC.imgAudioVideoSummaries",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/SubscriptionPlanVC.swift",
+      "line": 27,
+      "symbol": "SubscriptionPlanVC.imgAudioSummaries",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/SubscriptionPlanVC.swift",
+      "line": 29,
+      "symbol": "SubscriptionPlanVC.isFrom",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/SubscriptionPlanVC.swift",
+      "line": 32,
+      "symbol": "SubscriptionPlanVC.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/SubscriptionPlanVC.swift",
+      "line": 42,
+      "symbol": "SubscriptionPlanVC.btnBack(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/SubscriptionPlanVC.swift",
+      "line": 48,
+      "symbol": "SubscriptionPlanVC.btnMakePayment_DidSelect(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/SubscriptionPlanVC.swift",
+      "line": 54,
+      "symbol": "SubscriptionPlanVC.tableView(_:numberOfRowsInSection:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/SubscriptionPlanVC.swift",
+      "line": 58,
+      "symbol": "SubscriptionPlanVC.tableView(_:cellForRowAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/SubscriptionPlanVC.swift",
+      "line": 63,
+      "symbol": "SubscriptionPlanVC.tableView(_:didSelectRowAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/SubscriptionPlanVC.swift",
+      "line": 71,
+      "symbol": "SubscriptionPlanVC.btnWrittenSummaries(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/SubscriptionVC.swift",
+      "line": 11,
+      "symbol": "SubscriptionVC",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/SubscriptionVC.swift",
+      "line": 14,
+      "symbol": "SubscriptionVC.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/TabBarController.swift",
+      "line": 11,
+      "symbol": "TabBarController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/TabBarController.swift",
+      "line": 13,
+      "symbol": "TabBarController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/TabBarController.swift",
+      "line": 20,
+      "symbol": "TabBarController.viewWillAppear(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/TabBarController.swift",
+      "line": 38,
+      "symbol": "TabBarController.tabBarController(_:didSelect:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/WatchVideoVC.swift",
+      "line": 13,
+      "symbol": "WatchVideoVC",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/WatchVideoVC.swift",
+      "line": 16,
+      "symbol": "WatchVideoVC.imgVideo",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/WatchVideoVC.swift",
+      "line": 17,
+      "symbol": "WatchVideoVC.btnPlayVideo",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/WatchVideoVC.swift",
+      "line": 18,
+      "symbol": "WatchVideoVC.viewVideo",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/WatchVideoVC.swift",
+      "line": 20,
+      "symbol": "WatchVideoVC.avpController",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/WatchVideoVC.swift",
+      "line": 21,
+      "symbol": "WatchVideoVC.player",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/WatchVideoVC.swift",
+      "line": 22,
+      "symbol": "WatchVideoVC.dictBookDetails",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/WatchVideoVC.swift",
+      "line": 25,
+      "symbol": "WatchVideoVC.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/WatchVideoVC.swift",
+      "line": 53,
+      "symbol": "WatchVideoVC.viewWillAppear(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/WatchVideoVC.swift",
+      "line": 57,
+      "symbol": "WatchVideoVC.btnBack_DidSelect(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/WatchVideoVC.swift",
+      "line": 61,
+      "symbol": "WatchVideoVC.btnDownload_DidSelect(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/WatchVideoVC.swift",
+      "line": 65,
+      "symbol": "WatchVideoVC.btnPlayVideo(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/WebViewVC.swift",
+      "line": 12,
+      "symbol": "WebViewVC",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/WebViewVC.swift",
+      "line": 14,
+      "symbol": "WebViewVC.lblTittle",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/WebViewVC.swift",
+      "line": 15,
+      "symbol": "WebViewVC.webView",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/WebViewVC.swift",
+      "line": 16,
+      "symbol": "WebViewVC.activityIndicator",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/WebViewVC.swift",
+      "line": 18,
+      "symbol": "WebViewVC.strTittle",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/WebViewVC.swift",
+      "line": 19,
+      "symbol": "WebViewVC.strURL",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/WebViewVC.swift",
+      "line": 21,
+      "symbol": "WebViewVC.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/WebViewVC.swift",
+      "line": 32,
+      "symbol": "WebViewVC.btnBack_DidSelect(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/WebViewVC.swift",
+      "line": 37,
+      "symbol": "WebViewVC.webViewDidFinishLoad(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/WebViewVC.swift",
+      "line": 40,
+      "symbol": "WebViewVC.webViewDidStartLoad(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/WelcomeVC.swift",
+      "line": 11,
+      "symbol": "WelcomeVC",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/WelcomeVC.swift",
+      "line": 13,
+      "symbol": "WelcomeVC.viewsignUp",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/WelcomeVC.swift",
+      "line": 15,
+      "symbol": "WelcomeVC.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/WelcomeVC.swift",
+      "line": 31,
+      "symbol": "WelcomeVC.btnSignUp_DidSelect(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/WelcomeVC.swift",
+      "line": 38,
+      "symbol": "WelcomeVC.btnFacebook_DidSelect(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Controller/WelcomeVC.swift",
+      "line": 41,
+      "symbol": "WelcomeVC.btnGoogle_DidSelect(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/HelperClass/Extention.swift",
+      "line": 15,
+      "symbol": "UIView.roundCorners(corners:radius:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/HelperClass/Extention.swift",
+      "line": 22,
+      "symbol": "UIView.addShadowView(width:height:Opacidade:maskToBounds:radius:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/HelperClass/Extention.swift",
+      "line": 31,
+      "symbol": "UIImageView.roundCorners(_:radius:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/HelperClass/Extention.swift",
+      "line": 42,
+      "symbol": "UIViewController.showHud()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/HelperClass/Extention.swift",
+      "line": 47,
+      "symbol": "UIViewController.clearHud()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/HelperClass/Extention.swift",
+      "line": 51,
+      "symbol": "UIViewController.appDelegate",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/HelperClass/Extention.swift",
+      "line": 56,
+      "symbol": "UIViewController.resize(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/HelperClass/Extention.swift",
+      "line": 93,
+      "symbol": "UIViewController.onShowFloatingBanner(title:message:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Model/File.swift",
+      "line": 17,
+      "symbol": "HomeModel",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Model/File.swift",
+      "line": 18,
+      "symbol": "HomeModel.categories",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Model/File.swift",
+      "line": 19,
+      "symbol": "HomeModel.curatedList",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Model/File.swift",
+      "line": 19,
+      "symbol": "HomeModel.latest",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Model/File.swift",
+      "line": 19,
+      "symbol": "HomeModel.mostPopular",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Model/File.swift",
+      "line": 21,
+      "symbol": "HomeModel.CodingKeys",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Model/File.swift",
+      "line": 22,
+      "symbol": "HomeModel.CodingKeys.categories",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Model/File.swift",
+      "line": 22,
+      "symbol": "HomeModel.CodingKeys.latest",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Model/File.swift",
+      "line": 23,
+      "symbol": "HomeModel.CodingKeys.mostPopular",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Model/File.swift",
+      "line": 24,
+      "symbol": "HomeModel.CodingKeys.curatedList",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Model/File.swift",
+      "line": 27,
+      "symbol": "HomeModel.init(categories:latest:mostPopular:curatedList:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Model/File.swift",
+      "line": 37,
+      "symbol": "HomeModel",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Model/File.swift",
+      "line": 38,
+      "symbol": "HomeModel.init(data:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Model/File.swift",
+      "line": 43,
+      "symbol": "HomeModel.init(_:using:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Model/File.swift",
+      "line": 50,
+      "symbol": "HomeModel.init(fromURL:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Model/File.swift",
+      "line": 54,
+      "symbol": "HomeModel.with(categories:latest:mostPopular:curatedList:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Model/File.swift",
+      "line": 68,
+      "symbol": "HomeModel.jsonData()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Model/File.swift",
+      "line": 72,
+      "symbol": "HomeModel.jsonString(encoding:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Model/File.swift",
+      "line": 78,
+      "symbol": "Category",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Model/File.swift",
+      "line": 79,
+      "symbol": "Category.categoryID",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Model/File.swift",
+      "line": 80,
+      "symbol": "Category.title",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Model/File.swift",
+      "line": 81,
+      "symbol": "Category.thumbnailImage",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Model/File.swift",
+      "line": 83,
+      "symbol": "Category.CodingKeys",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Model/File.swift",
+      "line": 84,
+      "symbol": "Category.CodingKeys.categoryID",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Model/File.swift",
+      "line": 85,
+      "symbol": "Category.CodingKeys.title",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Model/File.swift",
+      "line": 86,
+      "symbol": "Category.CodingKeys.thumbnailImage",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Model/File.swift",
+      "line": 89,
+      "symbol": "Category.init(categoryID:title:thumbnailImage:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Model/File.swift",
+      "line": 98,
+      "symbol": "Category",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Model/File.swift",
+      "line": 99,
+      "symbol": "Category.init(data:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Model/File.swift",
+      "line": 104,
+      "symbol": "Category.init(_:using:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Model/File.swift",
+      "line": 111,
+      "symbol": "Category.init(fromURL:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Model/File.swift",
+      "line": 115,
+      "symbol": "Category.with(categoryID:title:thumbnailImage:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Model/File.swift",
+      "line": 127,
+      "symbol": "Category.jsonData()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Model/File.swift",
+      "line": 131,
+      "symbol": "Category.jsonString(encoding:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Model/File.swift",
+      "line": 137,
+      "symbol": "CuratedList",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Model/File.swift",
+      "line": 138,
+      "symbol": "CuratedList.bookID",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Model/File.swift",
+      "line": 139,
+      "symbol": "CuratedList.bookTitle",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Model/File.swift",
+      "line": 140,
+      "symbol": "CuratedList.coverImage",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Model/File.swift",
+      "line": 141,
+      "symbol": "CuratedList.author",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Model/File.swift",
+      "line": 142,
+      "symbol": "CuratedList.curatedListDescription",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Model/File.swift",
+      "line": 144,
+      "symbol": "CuratedList.CodingKeys",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Model/File.swift",
+      "line": 145,
+      "symbol": "CuratedList.CodingKeys.bookID",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Model/File.swift",
+      "line": 146,
+      "symbol": "CuratedList.CodingKeys.bookTitle",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Model/File.swift",
+      "line": 147,
+      "symbol": "CuratedList.CodingKeys.coverImage",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Model/File.swift",
+      "line": 148,
+      "symbol": "CuratedList.CodingKeys.author",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Model/File.swift",
+      "line": 149,
+      "symbol": "CuratedList.CodingKeys.curatedListDescription",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Model/File.swift",
+      "line": 152,
+      "symbol": "CuratedList.init(bookID:bookTitle:coverImage:author:curatedListDescription:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Model/File.swift",
+      "line": 163,
+      "symbol": "CuratedList",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Model/File.swift",
+      "line": 164,
+      "symbol": "CuratedList.init(data:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Model/File.swift",
+      "line": 169,
+      "symbol": "CuratedList.init(_:using:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Model/File.swift",
+      "line": 176,
+      "symbol": "CuratedList.init(fromURL:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Model/File.swift",
+      "line": 180,
+      "symbol": "CuratedList.with(bookID:bookTitle:coverImage:author:curatedListDescription:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Model/File.swift",
+      "line": 196,
+      "symbol": "CuratedList.jsonData()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Model/File.swift",
+      "line": 200,
+      "symbol": "CuratedList.jsonString(encoding:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Model/File.swift",
+      "line": 205,
+      "symbol": "Author",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Model/File.swift",
+      "line": 206,
+      "symbol": "Author.jKRowlings",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Model/File.swift",
+      "line": 207,
+      "symbol": "Author.safa",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Model/File.swift",
+      "line": 212,
+      "symbol": "newJSONDecoder()",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Model/File.swift",
+      "line": 220,
+      "symbol": "newJSONEncoder()",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/View/Cell/CategoryCell.swift",
+      "line": 11,
+      "symbol": "CategoryCell",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/View/Cell/CategoryCell.swift",
+      "line": 12,
+      "symbol": "CategoryCell.lblTitle",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/View/Cell/CategoryCell.swift",
+      "line": 13,
+      "symbol": "CategoryCell.imgBookThumbnail",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/View/Cell/CuratedCell.swift",
+      "line": 11,
+      "symbol": "CuratedCell",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/View/Cell/CuratedCell.swift",
+      "line": 13,
+      "symbol": "CuratedCell.imgBook",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/View/Cell/CuratedCell.swift",
+      "line": 15,
+      "symbol": "CuratedCell.lblBookTitle",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/View/Cell/CuratedCell.swift",
+      "line": 17,
+      "symbol": "CuratedCell.lblAuthorNAme",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/View/Cell/CuratedCell.swift",
+      "line": 19,
+      "symbol": "CuratedCell.lblDescription",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/View/Cell/CuratedCell.swift",
+      "line": 20,
+      "symbol": "CuratedCell.btnPrevious",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/View/Cell/CuratedCell.swift",
+      "line": 22,
+      "symbol": "CuratedCell.btnNext",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/View/Cell/DetailCell.swift",
+      "line": 11,
+      "symbol": "DetailCell",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/View/Cell/DetailCell.swift",
+      "line": 13,
+      "symbol": "DetailCell.awakeFromNib()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/View/Cell/DetailCell.swift",
+      "line": 19,
+      "symbol": "DetailCell.setSelected(_:animated:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/View/Cell/DownloadCell.swift",
+      "line": 11,
+      "symbol": "DownloadCell",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/View/Cell/DownloadCell.swift",
+      "line": 13,
+      "symbol": "DownloadCell.awakeFromNib()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/View/Cell/DownloadCell.swift",
+      "line": 19,
+      "symbol": "DownloadCell.setSelected(_:animated:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/View/Cell/ExpandCell.swift",
+      "line": 11,
+      "symbol": "ExpandCell",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/View/Cell/ExpandCell.swift",
+      "line": 13,
+      "symbol": "ExpandCell.imgIcon",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/View/Cell/ExpandCell.swift",
+      "line": 14,
+      "symbol": "ExpandCell.lblTitle",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/View/Cell/ExpandCell.swift",
+      "line": 16,
+      "symbol": "ExpandCell.awakeFromNib()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/View/Cell/ExpandCell.swift",
+      "line": 23,
+      "symbol": "ExpandCell.setSelected(_:animated:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/View/Cell/FavoriteCell.swift",
+      "line": 11,
+      "symbol": "FavoriteCell",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/View/Cell/FavoriteCell.swift",
+      "line": 13,
+      "symbol": "FavoriteCell.btnLike",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/View/Cell/IntroductionCell.swift",
+      "line": 11,
+      "symbol": "IntroductionCell",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/View/Cell/IntroductionCell.swift",
+      "line": 13,
+      "symbol": "IntroductionCell.lblDescription",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/View/Cell/IntroductionCell.swift",
+      "line": 14,
+      "symbol": "IntroductionCell.awakeFromNib()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/View/Cell/IntroductionCell.swift",
+      "line": 20,
+      "symbol": "IntroductionCell.setSelected(_:animated:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/View/Cell/MyLibraryCell.swift",
+      "line": 11,
+      "symbol": "MyLibraryCell",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/View/Cell/MyLibraryCell.swift",
+      "line": 14,
+      "symbol": "MyLibraryCell.viewLibraryType",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/View/Cell/MyLibraryCell.swift",
+      "line": 16,
+      "symbol": "MyLibraryCell.lblType",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/View/Cell/NotificationCell.swift",
+      "line": 11,
+      "symbol": "NotificationCell",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/View/Cell/NotificationCell.swift",
+      "line": 13,
+      "symbol": "NotificationCell.awakeFromNib()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/View/Cell/NotificationCell.swift",
+      "line": 19,
+      "symbol": "NotificationCell.setSelected(_:animated:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/View/Cell/PlanCell.swift",
+      "line": 11,
+      "symbol": "PlanCell",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/View/Cell/PlanCell.swift",
+      "line": 13,
+      "symbol": "PlanCell.lblDescription",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/View/Cell/PlanCell.swift",
+      "line": 14,
+      "symbol": "PlanCell.awakeFromNib()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/View/Cell/PlanCell.swift",
+      "line": 20,
+      "symbol": "PlanCell.setSelected(_:animated:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/View/Cell/PsychologyCell.swift",
+      "line": 11,
+      "symbol": "PsychologyCell",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/View/Cell/PsychologyCell.swift",
+      "line": 13,
+      "symbol": "PsychologyCell.imgBook",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/View/Cell/PsychologyCell.swift",
+      "line": 15,
+      "symbol": "PsychologyCell.lblBookTitle",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/View/Cell/PsychologyCell.swift",
+      "line": 17,
+      "symbol": "PsychologyCell.lblAuthorNAme",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/View/Cell/PsychologyCell.swift",
+      "line": 19,
+      "symbol": "PsychologyCell.lblDescription",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/View/Cell/PsychologyCell.swift",
+      "line": 20,
+      "symbol": "PsychologyCell.awakeFromNib()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/View/Cell/PsychologyCell.swift",
+      "line": 27,
+      "symbol": "PsychologyCell.setSelected(_:animated:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/View/Cell/ReadListCell.swift",
+      "line": 11,
+      "symbol": "ReadListCell",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/View/Cell/ReadListCell.swift",
+      "line": 13,
+      "symbol": "ReadListCell.imgMusic",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/View/Cell/ReadListCell.swift",
+      "line": 14,
+      "symbol": "ReadListCell.awakeFromNib()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/View/Cell/ReadListCell.swift",
+      "line": 20,
+      "symbol": "ReadListCell.setSelected(_:animated:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/View/Cell/RecommendedCell.swift",
+      "line": 11,
+      "symbol": "RecommendedCell",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/View/Cell/RecommendedCell.swift",
+      "line": 13,
+      "symbol": "RecommendedCell.imgBook",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/View/Cell/RecommendedCell.swift",
+      "line": 15,
+      "symbol": "RecommendedCell.lblBookTitle",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/View/Cell/RecommendedCell.swift",
+      "line": 17,
+      "symbol": "RecommendedCell.lblAuthorNAme",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/View/Cell/RecommendedCell.swift",
+      "line": 19,
+      "symbol": "RecommendedCell.lblDescription",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/View/Cell/SlideCell.swift",
+      "line": 11,
+      "symbol": "SlideCell",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/View/Cell/SlideCell.swift",
+      "line": 13,
+      "symbol": "SlideCell.imgIntro",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/View/Cell/SlideCell.swift",
+      "line": 14,
+      "symbol": "SlideCell.lblHeading",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/View/Cell/SlideCell.swift",
+      "line": 15,
+      "symbol": "SlideCell.lblContent",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/View/Cell/SlideCell.swift",
+      "line": 16,
+      "symbol": "SlideCell.imgSelectedPage",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/View/Cell/SlideCell.swift",
+      "line": 17,
+      "symbol": "SlideCell.btnNext",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/View/Cell/SlideCell.swift",
+      "line": 18,
+      "symbol": "SlideCell.btnSkip",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/View/Cell/SlideCell.swift",
+      "line": 19,
+      "symbol": "SlideCell.awakeFromNib()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/View/Cell/VideoCell.swift",
+      "line": 13,
+      "symbol": "VideoCell",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/View/Cell/VideoCell.swift",
+      "line": 15,
+      "symbol": "VideoCell.VideoImgView",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/View/Cell/VideoCell.swift",
+      "line": 17,
+      "symbol": "VideoCell.viewVideo",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/View/Cell/VideoCell.swift",
+      "line": 18,
+      "symbol": "VideoCell.avpController",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/View/Cell/VideoCell.swift",
+      "line": 19,
+      "symbol": "VideoCell.player",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/ViewController.swift",
+      "line": 11,
+      "symbol": "ViewController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/ViewController.swift",
+      "line": 13,
+      "symbol": "ViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads"
+}

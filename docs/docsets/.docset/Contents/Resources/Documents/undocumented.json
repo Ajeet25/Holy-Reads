@@ -1,0 +1,166 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/HRToast+UIView.swift",
+      "line": 76,
+      "symbol": "UIView.hr_setToastThemeColor(color:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/HRToast+UIView.swift",
+      "line": 80,
+      "symbol": "UIView.hr_toastThemeColor()",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/HRToast+UIView.swift",
+      "line": 90,
+      "symbol": "UIView.hr_setToastTitleFontName(fontName:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/HRToast+UIView.swift",
+      "line": 94,
+      "symbol": "UIView.hr_toastTitleFontName()",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/HRToast+UIView.swift",
+      "line": 105,
+      "symbol": "UIView.hr_setToastFontName(fontName:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/HRToast+UIView.swift",
+      "line": 109,
+      "symbol": "UIView.hr_toastFontName()",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/HRToast+UIView.swift",
+      "line": 120,
+      "symbol": "UIView.hr_setToastFontColor(color:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/HRToast+UIView.swift",
+      "line": 124,
+      "symbol": "UIView.hr_toastFontColor()",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/HRToast+UIView.swift",
+      "line": 134,
+      "symbol": "UIView.makeToast(message:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/HRToast+UIView.swift",
+      "line": 138,
+      "symbol": "UIView.makeToast(message:duration:position:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/HRToast+UIView.swift",
+      "line": 143,
+      "symbol": "UIView.makeToast(message:duration:position:title:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/HRToast+UIView.swift",
+      "line": 148,
+      "symbol": "UIView.makeToast(message:duration:position:image:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/HRToast+UIView.swift",
+      "line": 153,
+      "symbol": "UIView.makeToast(message:duration:position:title:image:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/HRToast+UIView.swift",
+      "line": 158,
+      "symbol": "UIView.showToast(toast:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/HRToast+UIView.swift",
+      "line": 196,
+      "symbol": "UIView.makeToastActivity()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/HRToast+UIView.swift",
+      "line": 200,
+      "symbol": "UIView.makeToastActivity(message:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/HRToast+UIView.swift",
+      "line": 252,
+      "symbol": "UIView.hideToastActivity()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/HRToast+UIView.swift",
+      "line": 270,
+      "symbol": "UIView.hideToast(toast:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/HRToast+UIView.swift",
+      "line": 274,
+      "symbol": "UIView.hideToast(toast:force:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/HRToast+UIView.swift",
+      "line": 293,
+      "symbol": "UIView.toastTimerDidFinish(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/HRToast+UIView.swift",
+      "line": 297,
+      "symbol": "UIView.handleToastTapped(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/Config/HRToast+UIView.swift",
+      "line": 436,
+      "symbol": "String.stringHeightWithFontSize(_:width:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads/Holy Reads/HelperClass/Extention.swift",
+      "line": 31,
+      "symbol": "UIImageView.roundCorners(_:radius:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/mac-14/Desktop/Ajeet/Project/Holy Reads/holy-reads"
+}
